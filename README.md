@@ -11,15 +11,6 @@ Welcome to the Bankist Project! This is a banking application built with JavaScr
 - **Delete Account**: Allows users to delete their accounts.
 - **Transaction Sorting**: Sort transactions by date or amount.
 
-## Screenshots
-
-Here are some screenshots of the Bankist app in action:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="screenShots\Bankist-Website.png" alt="Screenshot 2" width="45%" />
-  <img src="screenShots\Bankist-Movements.png" alt="Screenshot 1" width="45%" />
-</div>
-
 ## Technologies Used
 
 - **JavaScript** (ES6+)
@@ -41,4 +32,3 @@ Here are some screenshots of the Bankist app in action:
 ## Live Demo
 
 You can check out the live demo of the Bankist Project by clicking [here](https://your-live-demo-link.com). This will allow you to interact with the app and experience the features in real-time.
-# Bankist
