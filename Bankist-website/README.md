@@ -1,3 +1,3 @@
 # Bankist-website
 
-<img src="Bankist-Website.png" alt="Screenshot 2"/>
+<img src="Bankist-website.png" alt="Screenshot 2"/>
